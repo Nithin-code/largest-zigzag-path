@@ -6,7 +6,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 import java.math.*;
-class GFG
+class ABC
  {
 	public static void main (String[] args)
 	 {
